@@ -1,4 +1,4 @@
-# Script til udrulning af Chrome over Intune
+# Chrome ps-script - SeeSafe IT
 Scriptet sørger for, at enheder altid modtager den nyeste version af Google Chrome ved udrulning. 
 Denne tilgang effektiviserer ikke kun udrulningsprocessen, men sikrer også, at enheder er beskyttet mod potentielle sårbarheder i forældede Chrome versioner.
 
